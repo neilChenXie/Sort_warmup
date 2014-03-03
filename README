@@ -1,0 +1,42 @@
+Documentation for Warmup Assignment 1
+=====================================
+
++-------+
+| BUILD |
++-------+
+
+Comments: use command: make. there is a makefile in tar for this.
+
++---------+
+| GRADING |
++---------+
+
+(A) Doubly-linked Circular List : 40 out of 40 pts
+
+(B.1) Sort (file) : 30 out of 30 pts
+(B.2) Sort (stdin) : 30 out of 30 pts
+
+Missing required section(s) in README file : 0 (Comments included)
+Cannot compile : 0 (Comments)
+Compiler warnings : 0 (Comments)
+"make clean" :0 (Comments)
+Segmentation faults :0 (Comments)
+Separate compilation :0 (Comments)
+Malformed input :0 (Comments all finished)
+Too slow :0 (Comments)
+Bad commandline :-7 (Comments only the first one)
+Bad behavior for random input :-3 (Comments)
+Did not use My402List and My402ListElem to implement "sort" in (B) : 0 (Comments all used)
+
++------+
+| BUGS |
++------+
+
+Comments: no bugs
+
++-------+
+| OTHER |
++-------+
+
+Comments on design decisions: no
+Comments on deviation from spec: no
