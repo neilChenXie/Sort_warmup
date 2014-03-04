@@ -18,7 +18,8 @@
         My402List *List;
         List = (My402List *)malloc(sizeof(My402List));
         (void)My402ListInit(List);
-        /*
+        //
+	/*
         printf("the length of my402list is %d\n", My402ListLength(List));
         printf("it is empty? %d\n", My402ListEmpty(List));
         */
